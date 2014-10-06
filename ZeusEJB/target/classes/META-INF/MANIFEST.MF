@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: guilherme.magalhaes
+Class-Path: batoo-jpa-2.0.1.2.jar antlr-runtime-3.4.jar asm-3.3.1.jar 
+ guava-14.0.1.jar commons-dbutils-1.4.jar commons-io-2.1.jar commons-l
+ ang-2.6.jar EasyCriteria-3.0.0.jar ZeusCON-1.0.jar mysql-connector-ja
+ va-5.1.31.jar slf4j-api-1.7.7.jar slf4j-log4j12-1.7.7.jar log4j-1.2.1
+ 7.jar perf4j-0.9.16.jar
+Build-Jdk: 1.8.0_20
+Created-By: Maven Integration for Eclipse
+
