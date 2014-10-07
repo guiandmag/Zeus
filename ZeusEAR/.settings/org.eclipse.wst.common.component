@@ -29,6 +29,12 @@
         <dependent-module archiveName="EasyCriteria-3.0.0.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/uaihebert/com/EasyCriteria/3.0.0/EasyCriteria-3.0.0.jar">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="jsch-0.1.51.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/com/jcraft/jsch/0.1.51/jsch-0.1.51.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-net-3.3.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/commons-net/commons-net/3.3/commons-net-3.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <dependent-module archiveName="commons-io-2.4.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar">
             <dependency-type>uses</dependency-type>
         </dependent-module>

@@ -6,7 +6,7 @@
 	<inceptionYear>2014</inceptionYear>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>EAR</groupId>
-	<version>1.0</version>
+	<version>1.0</version>   
 	<artifactId>${project.zeus.name}</artifactId>
 	<packaging>pom</packaging>
 
@@ -104,6 +104,19 @@
 					<configuration>
 						<ejbVersion>3.2</ejbVersion>
 					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-dependency-plugin</artifactId>
+					<executions>
+						<execution>
+							<id>install</id>
+							<phase>install</phase>
+							<goals>
+								<goal>sources</goal>
+							</goals>
+						</execution>
+					</executions>
 				</plugin>
 				<plugin>
 					<groupId>org.jbehave</groupId>
