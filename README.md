@@ -2,11 +2,11 @@
 
 **Projeto Zeus - Projeto Core do Zeus, criado para a criacao de processos batch e de validadores de XML.**
 
-**## - Resumo ##**
+##** - Resumo **##
 * Sistema Zeus de Tratamento de Arquivos XML\HL7.
 * 1.0
 
-**## -Sumário ##**
+##** - Sumário **##
 * Sumário de instalação 
 * Configuração
 * Dependências
@@ -14,13 +14,13 @@
 * Como rodar os testes
 * Instruções para Deploy
 
-**## Contribuidores ##**
+##** - Contribuidores **##
 
 * Testes
 * Refatoração
 * Outros
 
-**## Quem eu procuro? ##**
+##** - Quem eu procuro? **##
 
 * Consulters
 * DASA
