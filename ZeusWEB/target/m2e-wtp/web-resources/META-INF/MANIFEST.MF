@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Built-By: guilherme.magalhaes
-Class-Path: mysql-connector-java-5.1.31.jar slf4j-api-1.7.7.jar slf4j-
- log4j12-1.7.7.jar log4j-1.2.17.jar perf4j-0.9.16.jar
-Build-Jdk: 1.8.0_20
-Created-By: Maven Integration for Eclipse
-
