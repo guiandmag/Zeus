@@ -19,8 +19,3 @@
 * Testes
 * Refatoração
 * Outros
-
-##** - Quem eu procuro? **##
-
-* Consulters
-* DASA
